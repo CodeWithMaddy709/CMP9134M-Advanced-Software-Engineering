@@ -42,19 +42,12 @@ The banking software system includes the following functionalities:
 
 ## System Architecture
 The system is designed with a layered architecture comprising:
-- **Presentation Layer**: User interfaces for interaction (e.g., web interface, mobile app).
+- **Presentation Layer**: User interfaces for interaction 
 - **Application Layer**: Business logic and workflow management.
 - **Data Access Layer**: Interface to interact with the database.
 - **Database**: Persistent storage for user data and transaction records.
 
-## Technologies Used
-The banking software system is built using the following technologies:
-- **Programming Languages**: Java, JavaScript (for frontend if applicable)
-- **Frameworks and Libraries**: Spring Boot (for backend), React (for frontend if applicable)
-- **Database**: MySQL, MongoDB (if applicable)
-- **Authentication**: OAuth2, JWT
-- **Encryption**: SSL/TLS, AES
-- **Compliance**: Compliance-as-Code tools, Regulatory APIs
+
 
 ## Installation and Usage
 To run the banking software system locally, follow these steps:
@@ -78,5 +71,3 @@ We would like to express our gratitude to the following resources for their inva
 - Agile/XP Programming Principles
 - Software Engineering Tools and Technologies
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
