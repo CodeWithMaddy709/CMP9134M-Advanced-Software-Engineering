@@ -65,7 +65,10 @@ To run the banking software system locally, follow these steps:
 5. Build and run the application using the appropriate commands or IDE configurations.
 
 ## Contributors
-- [Your Name] - [Your Email/Contact Information]
+- [Hammad Shabir] - [28761136@students.lincoln.ac.uk]
+- [Abdullah Wajid] - [28641089@students.lincoln.ac.uk]
+- [Jawad Amin] - [28831848@students.lincoln.ac.uk]
+- [Abdul Rahman] - [28833132@students.lincoln.ac.uk]
 
 ## Acknowledgments
 We would like to express our gratitude to the following resources for their invaluable contributions:
